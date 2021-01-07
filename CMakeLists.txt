@@ -1,5 +1,5 @@
 cmake_minimum_required( VERSION 3.5 FATAL_ERROR )
-project (urdfdom CXX C)
+project (urdfdom VERSION 2.3.3 CXX C)
 
 set (URDF_MAJOR_VERSION 1)
 set (URDF_MINOR_VERSION 0)
